@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa38311c-034a-4574-af41-4f9fca3c86d0" name="Changes" comment="Override class configBean.java in beans packages">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/beans/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/beans/ConfigBean.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa38311c-034a-4574-af41-4f9fca3c86d0" name="Changes" comment="Final commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677006601108</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Called ApplicationContext class to get bean of product class">
+      <created>1677007036347</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1677007036347</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final commit">
+      <created>1677007090837</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677007090837</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +140,9 @@
     <MESSAGE value="Created equals method and hash code for product class" />
     <MESSAGE value="Override toString method and hash code for product class" />
     <MESSAGE value="Override class configBean.java in beans packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Override class configBean.java in beans packages" />
+    <MESSAGE value="Called ApplicationContext class to get bean of product class" />
+    <MESSAGE value="Final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
