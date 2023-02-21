@@ -13,5 +13,6 @@ public class App {
         ApplicationContext applicationContext = new AnnotationConfigApplicationContext(ConfigBean.class);
         Product product1 = applicationContext.getBean(Product.class);
         System.out.println(product1.getProductName());
+        System.out.println(product1.getProductId());
     }
 }
