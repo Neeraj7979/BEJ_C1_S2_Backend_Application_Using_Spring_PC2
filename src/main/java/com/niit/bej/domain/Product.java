@@ -1,5 +1,7 @@
 package com.niit.bej.domain;
 
+import java.util.Objects;
+
 public class Product {
     private String productName;
     private int productId;
@@ -46,5 +48,18 @@ public class Product {
 
     public void setProductPrice(double productPrice) {
         this.productPrice = productPrice;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Product product = (Product) o;
+        return productId == product.productId && productQuantity == product.productQuantity && Double.compare(product.productPrice, productPrice) == 0 && Objects.equals(productName, product.productName);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(productName, productId, productQuantity, productPrice);
     }
 }
