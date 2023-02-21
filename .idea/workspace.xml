@@ -1,21 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa38311c-034a-4574-af41-4f9fca3c86d0" name="Changes" comment="" />
+    <list default="true" id="fa38311c-034a-4574-af41-4f9fca3c86d0" name="Changes" comment="Override class configBean.java in beans packages">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/beans/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/niit/bej/domain/beans/ConfigBean.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2M3pA0PwJ0JPk2rDIQs0Gtgd2lA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -27,6 +50,88 @@
       <option name="presentableId" value="Default" />
       <updated>1677005977746</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1677006024067</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006024067</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create dependencies for spring framework">
+      <created>1677006144509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006144509</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create fields for the class product">
+      <created>1677006347057</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006347057</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Created parameterised and non-argument constructor for the class product">
+      <created>1677006408414</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006408414</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Created getter and setter method for product class">
+      <created>1677006455055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006455055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created equals method and hash code for product class">
+      <created>1677006492508</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006492508</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Override toString method and hash code for product class">
+      <created>1677006523822</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006523822</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Override class configBean.java in beans packages">
+      <created>1677006601108</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677006601108</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Create dependencies for spring framework" />
+    <MESSAGE value="Create fields for the class product" />
+    <MESSAGE value="Created parameterised and non-argument constructor for the class product" />
+    <MESSAGE value="Created getter and setter method for product class" />
+    <MESSAGE value="Created equals method and hash code for product class" />
+    <MESSAGE value="Override toString method and hash code for product class" />
+    <MESSAGE value="Override class configBean.java in beans packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Override class configBean.java in beans packages" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
